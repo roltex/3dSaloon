@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4c3796f76f88fe84cac00ef98ba48a8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307021
+  packageName: RPG Camera Lite
+  packageVersion: 1.2
+  assetPath: Assets/John Stairs/RPG Camera Lite/Scripts/Character/MotorExample.cs
+  uploadId: 962650

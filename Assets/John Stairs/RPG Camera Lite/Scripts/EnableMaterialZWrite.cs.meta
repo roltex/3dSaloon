@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb8f5e38643b1fd459555ead5b4d590a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307021
+  packageName: RPG Camera Lite
+  packageVersion: 1.2
+  assetPath: Assets/John Stairs/RPG Camera Lite/Scripts/EnableMaterialZWrite.cs
+  uploadId: 962650

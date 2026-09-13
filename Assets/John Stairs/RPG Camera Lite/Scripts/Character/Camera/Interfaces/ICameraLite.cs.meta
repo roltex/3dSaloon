@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6e7f577cefff825469080da8bc9e92ac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307021
+  packageName: RPG Camera Lite
+  packageVersion: 1.2
+  assetPath: Assets/John Stairs/RPG Camera Lite/Scripts/Character/Camera/Interfaces/ICameraLite.cs
+  uploadId: 962650

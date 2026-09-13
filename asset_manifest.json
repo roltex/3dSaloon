@@ -1,0 +1,228 @@
+{
+  "pack": "TheLastBet_Unity_AI_Starter_Pack",
+  "version": "1.0",
+  "created_for": "Unity 6",
+  "notes": "Reference images and Unity AI starter files. No external Meshy FBX/GLB binaries were available in the conversation.",
+  "assets": [
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Final/00_Final_Saloon_Composition.png",
+      "source": "isometric_wild_west_saloon_interior.png",
+      "purpose": "Final target composition; transparent background; use for overall layout, palette and mood.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Final/01_Room_Shell_Final_Reference.png",
+      "source": "wild_west_saloon_asset_sheet.png",
+      "purpose": "Final room-shell reference sheet: modular openings and selected plants retained. Do not treat as a texture atlas.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/02_Bar_Transparent_Asset_Sheet.png",
+      "source": "western_saloon_bar_asset_sheet.png",
+      "purpose": "Bar module reference; includes bar architecture, stools and details; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/03_Entrance_Transparent_Asset_Sheet.png",
+      "source": "western_saloon_entrance_asset_sheet.png",
+      "purpose": "Entrance/welcome gate module; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/04_Green_Poker_Table_Transparent.png",
+      "source": "western_poker_table_asset_showcase.png",
+      "purpose": "Green poker table module and angles; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/05_Red_Round_Card_Table_Transparent.png",
+      "source": "luxury_poker_table_reference_sheet.png",
+      "purpose": "Red round card table module and angles; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/06_Roulette_Transparent.png",
+      "source": "vintage_saloon_roulette_asset_sheet.png",
+      "purpose": "Roulette module and close-ups; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/07_Slot_Machines_Transparent.png",
+      "source": "western_jackpot_slot_machine_asset_sheet.png",
+      "purpose": "Jackpot/slots module; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/08_Central_Lounge_No_Chandelier_Transparent.png",
+      "source": "western_saloon_lounge_asset_sheet.png",
+      "purpose": "Central lounge module; no chandelier; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/09_Duel_Arena_Transparent.png",
+      "source": "wild_west_duel_arena_asset_sheet.png",
+      "purpose": "Duel arena module and multiple angles; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Modules/10_Gallows_Judgment_Transparent.png",
+      "source": "medieval_gallows_asset_showcase.png",
+      "purpose": "Gallows/judgment area module; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Props/11_Small_Props_Transparent.png",
+      "source": "western_saloon_props_asset_sheet.png",
+      "purpose": "Signs, cards, bottles, barrels, crates, plants and small props; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Saloon/Props/12_Seating_Lighting_Props_Transparent.png",
+      "source": "western_saloon_prop_collection.png",
+      "purpose": "Seating, table and lighting prop references; alpha background.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/20_Male_Gunslinger_Transparent.png",
+      "source": "weathered_western_gunslinger_cutout.png",
+      "purpose": "Male character front cutout; transparent background.",
+      "size_px": [
+        941,
+        1672
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/21_Female_Gunslinger_Transparent.png",
+      "source": "claudio_the_gunslinger_character_render.png",
+      "purpose": "Female character front cutout; transparent background.",
+      "size_px": [
+        941,
+        1672
+      ],
+      "has_transparency": true
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/22_Male_Turnaround_And_Breakdown.png",
+      "source": "wild_west_gunslinger_turnaround_sheet.png",
+      "purpose": "Male turnaround, parts and material references.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/23_Female_Turnaround_And_Breakdown.png",
+      "source": "wild_west_gunslinger_asset_sheet.png",
+      "purpose": "Female turnaround, hair, outfit and material references.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/24_Male_Equipment_And_Accessories.png",
+      "source": "wild_west_gunslinger_equipment_sheet.png",
+      "purpose": "Male equipment/accessory reference sheet.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Characters/25_Female_Equipment_And_Materials.png",
+      "source": "wild_west_gunslinger_asset_reference_sheet.png",
+      "purpose": "Female outfit/material detail reference sheet.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Duel/30_Duel_Arena_InWorld_Reference.png",
+      "source": "wild_west_duel_honor_or_dust.png",
+      "purpose": "In-world 3D duel arena with two characters; use for scene staging.",
+      "size_px": [
+        1672,
+        941
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Duel/31_Duel_UI_Steady_Reference.png",
+      "source": "the_last_bet_duel_arena.png",
+      "purpose": "Duel UI/state reference for STEADY phase.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    },
+    {
+      "file": "Assets/TheLastBet/References/Duel/32_Duel_UI_Result_Reference.png",
+      "source": "dust_settles_in_the_duel_arena.png",
+      "purpose": "Duel result/victory state reference.",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "has_transparency": false
+    }
+  ]
+}
